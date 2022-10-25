@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/src/java/spring/web/mvc/immo/controller/MainController.java</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/src/java/spring/web/mvc/immo/model/ExportPdfTableau.java</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/jsp/Tableau-Ammortissement.jsp</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/src/java/spring/web/mvc/immo/service/AmmortissementService.java</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/src/java/spring/web/mvc/immo/model/ExportExcel.java</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/src/java/spring/web/mvc/immo/dao/InterfaceDAO.java</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/jsp/Fiche-Immobilisation.jsp</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/jsp/Liste-Ammortissement.jsp</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/jsp/Liste-Immobilisation.jsp</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/jsp/test.jsp</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/src/java/spring/web/mvc/immo/dao/HibernateDAO.java</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/src/java/spring/web/mvc/immo/service/ImmobilisationService.java</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/META-INF/context.xml</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/jsp/Accueil.jsp</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/redirect.jsp</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/jsp/homepage.jsp</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/src/java/spring/web/mvc/immo/model/ExportPdfFiche.java</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/web.xml</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/src/java/spring/web/mvc/immo/model/ExportPdf.java</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/web/WEB-INF/jsp/SaisieImmobilisation.jsp</file>
+            <file>file:/D:/MES%20TRAVAUX/SEMESTRE%206/Mr%20NAINA/PROJETS%20GESTION%20IMMOBILISATION/Gestion%20Immobilisation/src/java/spring/web/mvc/immo/model/Immobilisation.java</file>
+        </group>
+    </open-files>
+</project-private>
